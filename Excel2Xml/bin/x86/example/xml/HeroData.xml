@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HeroData>
+<HeroData>
+  <ID>1</ID>
+  <name>a</name>
+  <base_attack>10</base_attack>
+  <base_defense>11</base_defense>
+  <base_max_hp>123</base_max_hp>
+  <base_max_mp>1234</base_max_mp>
+  <attack_inc>456</attack_inc>
+  <hp_inc>67</hp_inc>
+  <mp_inc>78</mp_inc>
+</HeroData>
+<HeroData>
+  <ID>2</ID>
+  <name>a</name>
+  <base_attack>11</base_attack>
+  <base_defense>12</base_defense>
+  <base_max_hp>124</base_max_hp>
+  <base_max_mp>1235</base_max_mp>
+  <attack_inc>457</attack_inc>
+  <hp_inc>68</hp_inc>
+  <mp_inc>79</mp_inc>
+</HeroData>
+<HeroData>
+  <ID>3</ID>
+  <name>a</name>
+  <base_attack>12</base_attack>
+  <base_defense>13</base_defense>
+  <base_max_hp>125</base_max_hp>
+  <base_max_mp>1236</base_max_mp>
+  <attack_inc>458</attack_inc>
+  <hp_inc>69</hp_inc>
+  <mp_inc>80</mp_inc>
+</HeroData>
+<HeroData>
+  <ID>4</ID>
+  <name>a</name>
+  <base_attack>13</base_attack>
+  <base_defense>14</base_defense>
+  <base_max_hp>126</base_max_hp>
+  <base_max_mp>1237</base_max_mp>
+  <attack_inc>459</attack_inc>
+  <hp_inc>70</hp_inc>
+  <mp_inc>81</mp_inc>
+</HeroData>
+<HeroData>
+  <ID>4</ID>
+  <name>a</name>
+  <base_attack>14</base_attack>
+  <base_defense>15</base_defense>
+  <base_max_hp>127</base_max_hp>
+  <base_max_mp>1238</base_max_mp>
+  <attack_inc>460</attack_inc>
+  <hp_inc>71</hp_inc>
+  <mp_inc>82</mp_inc>
+</HeroData>
+<HeroData>
+  <ID>4</ID>
+  <name>a</name>
+  <base_attack>15</base_attack>
+  <base_defense>16</base_defense>
+  <base_max_hp>128</base_max_hp>
+  <base_max_mp>1239</base_max_mp>
+  <attack_inc>461</attack_inc>
+  <hp_inc>72</hp_inc>
+  <mp_inc>83</mp_inc>
+</HeroData>
+</HeroData>

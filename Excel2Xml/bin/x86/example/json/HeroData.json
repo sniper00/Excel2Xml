@@ -1,0 +1,70 @@
+﻿{
+  "HeroData": [
+    {
+      "ID": 1,
+      "name": "a",
+      "base_attack": 10,
+      "base_defense": 11,
+      "base_max_hp": 123,
+      "base_max_mp": 1234,
+      "attack_inc": 456,
+      "hp_inc": 67,
+      "mp_inc": 78
+    },
+    {
+      "ID": 2,
+      "name": "a",
+      "base_attack": 11,
+      "base_defense": 12,
+      "base_max_hp": 124,
+      "base_max_mp": 1235,
+      "attack_inc": 457,
+      "hp_inc": 68,
+      "mp_inc": 79
+    },
+    {
+      "ID": 3,
+      "name": "a",
+      "base_attack": 12,
+      "base_defense": 13,
+      "base_max_hp": 125,
+      "base_max_mp": 1236,
+      "attack_inc": 458,
+      "hp_inc": 69,
+      "mp_inc": 80
+    },
+    {
+      "ID": 4,
+      "name": "a",
+      "base_attack": 13,
+      "base_defense": 14,
+      "base_max_hp": 126,
+      "base_max_mp": 1237,
+      "attack_inc": 459,
+      "hp_inc": 70,
+      "mp_inc": 81
+    },
+    {
+      "ID": 4,
+      "name": "a",
+      "base_attack": 14,
+      "base_defense": 15,
+      "base_max_hp": 127,
+      "base_max_mp": 1238,
+      "attack_inc": 460,
+      "hp_inc": 71,
+      "mp_inc": 82
+    },
+    {
+      "ID": 4,
+      "name": "a",
+      "base_attack": 15,
+      "base_defense": 16,
+      "base_max_hp": 128,
+      "base_max_mp": 1239,
+      "attack_inc": 461,
+      "hp_inc": 72,
+      "mp_inc": 83
+    }
+  ]
+}
